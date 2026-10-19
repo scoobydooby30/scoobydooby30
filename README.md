@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **scoobydooby30/scoobydooby30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -126,7 +124,7 @@ Worked on Python version upgrades for microservices in the hotel integration tea
 ## Education
 
 ### Indian Institute of Information Technology, Allahabad
-**Integrated B.Tech + M.Tech in Computer Science**  
+**Integrated B.Tech + M.Tech **  
 2013 – 2018
 
 ## Technical Interests
