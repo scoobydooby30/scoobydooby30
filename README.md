@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Garima Gupta
-<img width="300" height="600" alt="IMG_9831 2" src="https://github.com/user-attachments/assets/26dc5fd1-b9a6-413e-b8ea-f22c4d745995" />
 
 
 I'm a Senior Software Engineer specializing in distributed systems, backend architecture, and cloud infrastructure. My work focuses on building reliable, scalable services, improving service reliability, modernizing cloud infrastructure, and developing AI-assisted engineering solutions.
