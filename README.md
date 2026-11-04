@@ -23,7 +23,7 @@ My engineering experience spans C++, Go, Python, Java, Azure, Kubernetes, Kafka,
 
 ## News
 
-### October 2026
+### November 2026
 
 **Exploring new engineering opportunities**
 
@@ -90,43 +90,6 @@ Improved motor-insurance conversion by 250% through automated vehicle-data popul
 - Strengthened personally identifiable information (PII) protection.
 - Built reconciliation and validation pipelines to correct more than 50,000 erroneous insurance policies.
 
-## Experience
-
-### Microsoft
-**Software Engineer II (L62) **  
-February 2025 – October 2026
-
-Worked on customer-support infrastructure, Azure networking modernization, service reliability, cost optimization, and AI-assisted support systems.
-
-### Uber
-**Backend Software Engineer (L4) **  
-January 2023 – November 2024
-
-Built backend systems for customer-support workflows, permissions management, omnichannel experiences, integration testing, and reliability improvements.
-
-### Microsoft
-**Software Engineer (L61) — Bing**  
-August 2022 – January 2023
-
-Contributed to Bing Treadmill, a large-scale CI/CD validation platform automating build, deployment, and testing workflows for safer releases.
-
-### Walmart–Flipkart
-**Software Development Engineer — Insurance & Search Monetization**  
-January 2020 – July 2022
-
-Worked on advertisement optimization, insurance conversion, microservices modernization, data validation, and operational reliability.
-
-### MakeMyTrip
-**Software Engineer — Goibibo Hotel Transactions**  
-June 2019 – January 2020
-
-Worked on Python version upgrades for microservices in the hotel integration team.
-
-## Education
-
-### Indian Institute of Information Technology, Allahabad
-**Integrated B.Tech + M.Tech **  
-2013 – 2018
 
 ## Technical Interests
 
