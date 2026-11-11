@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Garima Gupta
 Senior Distributed Systems & Reliability Engineer**
 
 Ex-Microsoft, Uber, Flipkart. Specializing in high-throughput backend infrastructure, zero-downtime modernization, high-availability global platforms (99.99%+), and AI-native developer tooling.
