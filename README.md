@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 -->
 # Garima Gupta
 
-
-I'm a Senior Software Engineer specializing in distributed systems, backend architecture, and cloud infrastructure. My work focuses on building reliable, scalable services, improving service reliability, modernizing cloud infrastructure, and developing AI-assisted engineering solutions.
+ My work focuses on building reliable, scalable services, improving service reliability, modernizing cloud infrastructure, and developing AI-assisted engineering solutions.
 
 I've worked at Microsoft, Uber, Walmart–Flipkart, and MakeMyTrip, solving engineering problems across customer-support platforms, Azure networking, large-scale permissions systems, omnichannel services, search monetization, and insurance technology.
 
 My engineering experience spans C++, Go, Python, Java, Azure, Kubernetes, Kafka, Redis, and distributed data systems. More recently, I've been exploring LLM applications, agentic workflows, context engineering, and AI-assisted software development.
 
-## Timeline
 
 ### November 2026
 
