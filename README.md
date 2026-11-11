@@ -21,7 +21,7 @@ I've worked at Microsoft, Uber, Walmart–Flipkart, and MakeMyTrip, solving engi
 
 My engineering experience spans C++, Go, Python, Java, Azure, Kubernetes, Kafka, Redis, and distributed data systems. More recently, I've been exploring LLM applications, agentic workflows, context engineering, and AI-assisted software development.
 
-## News
+## Timeline
 
 ### November 2026
 
